@@ -1,0 +1,16 @@
+first homework.
+XOR function and perceptron
+
+we know XOR is not a linear separable data set, hence perceptron can not reach 100 percent right. In this homework, we will add one more dimension for each sample, and the output is unchanged. I.e.,
+(0,0,a) ＞＞＞0
+(0,1,b) ＞＞＞1
+(1,0,c) ＞＞＞1
+(1,1,d) ＞＞＞0
+where a,b,c,d takes value 0 or 1 independently. Out of 16 combinations, you need print out the total number and exact combinations {a,b,c,d} that produce zero errors with perceptron algorithm.
+
+0. use perceptron, NOT MLP to train this data set
+1. seed first if random is used; use comments to explain yourself; number of iterations should no larger than 100
+2. everyone will submit one and only one.py file, which is named as
+"ML1-yourName-yourID.py"
+3. you may work as a group (no more than 5 person),but one should write codes independently, and list all participants' name in the comments; in the end, someone in the group will collect all python files and send me ONE zip file; please do NOT send rar file
+5. if you have any question, ask in QQ group
