@@ -76,4 +76,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-#This homework is oringined by Zhou Jiayi by himself. I swear!
+#This homework is oringined by MMinuzero by himself. I swear!
